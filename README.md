@@ -1,3 +1,6 @@
+# 💫 About Me:
+Oscar Larios<br>9512746599<br>Technical Support<br>FullStack Developer<br>Oficina de Representación Estatal de Becas para el Bienestar Benito Juárez<br>Área Subdirección de Atención Operativa<br>15/10/2010 - --/11/2022
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zerozila) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlarios) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zerozilla11) 
